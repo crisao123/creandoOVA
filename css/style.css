@@ -236,6 +236,14 @@ div {
 	left: 729px;
 	top: 752px;
 }
+ #apDiv18a {
+	position: absolute;
+	width: 400px;
+	height: 325px;
+	z-index: 7;
+	left: 79px;
+	top: 600px;
+}
         #apDiv19 {
 	position: absolute;
 	width: 138px;
